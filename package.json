@@ -22,7 +22,7 @@
     "express": "~4.14.1",
     "express-session": "^1.15.4",
     "less-middleware": "^2.2.0",
-    "mongoose": "^4.11.4",
+    "mongoose": "^5.11.7",
     "morgan": "~1.7.0",
     "npm-utils": "^2.0.0",
     "passport": "^0.3.2",
