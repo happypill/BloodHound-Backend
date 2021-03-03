@@ -27,7 +27,7 @@
     "npm-utils": "^2.0.0",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.0-beta11",
+    "pug": "^3.0.1",
     "request": "^2.81.0",
     "serve-favicon": "~2.3.2",
     "session": "^0.1.0",
